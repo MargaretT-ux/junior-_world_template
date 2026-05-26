@@ -1,3 +1,4 @@
+[Code file (1).docx](https://github.com/user-attachments/files/28266965/Code.file.1.docx)
 # Junior Eduhost World Template 🌍📱
 
 A beautiful, mobile-first Kindergarten and early childhood learning application template built with React Native. This application integrates interactive multimedia with sound pedagogical practices to create an immersive learning environment for young students.
